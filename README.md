@@ -18,7 +18,7 @@ Short genes with few expected loss-of-function variants have flat likelihoods in
 - Python 3.9 for GeneBayes
 - GPU with sufficient VRAM (H200 recommended for full-scale extraction)
 - [alphagenome_research](https://github.com/google-deepmind/alphagenome_research)
-- [GeneBayes](https://github.com/broadinstitute/GeneBayes)
+- [GeneBayes](https://github.com/tkzeng/GeneBayes)
 
 ## Usage
 
@@ -37,6 +37,6 @@ sbatch submit_job.sh
 - Full results: pending
 
 ## References
-- Zeng, J. et al. (2024). Discrete distributional differential expression (D3E): A new approach to single-cell RNA-seq analysis. *Nature Genetics*. GeneBayes framework for gene constraint estimation.
+- Zeng, J. et al. (2024). GeneBayes: improving Bayesian estimation of gene properties with sequence information. [GitHub](https://github.com/tkzeng/GeneBayes)
 - Avsec, Ž. et al. (2026). Advancing regulatory variant effect prediction with AlphaGenome. *Nature*, 649, 8099.
 - Karczewski, K.J. et al. (2020). The mutational constraint spectrum quantified from variation in 141,456 humans. *Nature*, 581, 434–443.
