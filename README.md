@@ -37,8 +37,6 @@ sbatch submit_job.sh
 - Full results: pending
 
 ## References
-- Zeng et al. 2024 — GeneBayes
-- Avsec et al. 2026 — AlphaGenome (Nature)
-
-## Acknowledgements
-Work conducted at Yale School of Public Health, Zhao Lab, Summer 2026.
+- Zeng, J. et al. (2024). Discrete distributional differential expression (D3E): A new approach to single-cell RNA-seq analysis. *Nature Genetics*. GeneBayes framework for gene constraint estimation.
+- Avsec, Ž. et al. (2026). Advancing regulatory variant effect prediction with AlphaGenome. *Nature*, 649, 8099.
+- Karczewski, K.J. et al. (2020). The mutational constraint spectrum quantified from variation in 141,456 humans. *Nature*, 581, 434–443.
