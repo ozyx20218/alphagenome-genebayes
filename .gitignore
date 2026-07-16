@@ -1,0 +1,10 @@
+*.pkl
+*.tsv
+*.gz
+*.model
+__pycache__/
+.conda/
+*.err
+*.out
+/ignore/
+/.idea/
